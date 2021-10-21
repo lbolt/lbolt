@@ -1,0 +1,4 @@
+- My user ID is @lbolt (from a previous life at Bell Labs)
+- My background is Computer Engineering and Computer Science
+- I’m partially retired and looking to collaborate on (C++ based) projects
+- Also contract-for-hire (must be work from home office)
